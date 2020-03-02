@@ -1,6 +1,6 @@
 {
   "name": "react-native-chartjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "use chart.js library in react native",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/KittyCookie/react-native-chartjs#readme",
   "dependencies" : {
-    "react-native-webview":"^7.0.5"
+    "react-native-webview":"^8.1.2"
   }
 
 }
